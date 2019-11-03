@@ -7,6 +7,8 @@
 //
 
 import UIKit
+import GameplayKit
+import WatchConnectivity
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
